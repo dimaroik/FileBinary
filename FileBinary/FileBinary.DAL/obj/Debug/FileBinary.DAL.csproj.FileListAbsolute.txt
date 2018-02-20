@@ -1,0 +1,5 @@
+C:\Users\Dima\Desktop\FileBinary\FileBinary.DAL\bin\Debug\FileBinary.DAL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.DAL\bin\Debug\FileBinary.DAL.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.DAL\obj\Debug\FileBinary.DAL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.DAL\obj\Debug\FileBinary.DAL.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.DAL\obj\Debug\FileBinary.DAL.csprojResolveAssemblyReference.cache

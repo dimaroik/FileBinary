@@ -1,0 +1,13 @@
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.UI.exe.config
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.UI.exe
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.UI.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.BLL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.BLL.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.Form1.resources
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.Properties.Resources.resources
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.exe
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\obj\Debug\FileBinary.UI.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.DAL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.UI\bin\Debug\FileBinary.DAL.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\bin\Debug\FileBinary.BLL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\bin\Debug\FileBinary.BLL.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\bin\Debug\FileBinary.DAL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\bin\Debug\FileBinary.DAL.pdb
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\obj\Debug\FileBinary.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\obj\Debug\FileBinary.BLL.dll
+C:\Users\Dima\Desktop\FileBinary\FileBinary.BLL\obj\Debug\FileBinary.BLL.pdb
